@@ -2,3 +2,8 @@
 # Editor #
 .idea/
 .vscode/
+
+# Py http.server #
+.env/
+.venv/
+run.bat
