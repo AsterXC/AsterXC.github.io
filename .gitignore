@@ -6,4 +6,6 @@
 # Py http.server #
 .env/
 .venv/
-run.bat
+
+/out.log
+/err.log
